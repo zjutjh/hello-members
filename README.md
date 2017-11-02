@@ -1,3 +1,4 @@
+
 # 精弘网络技术团队成员名单
 名字 | github账号 |
 ----|------------|
@@ -17,6 +18,7 @@
 张静茜 |Atropos1999|
 姜鑫 | KNLG42 |
 张炜 | SilverBullete |
+林英琮 | Congb19 | 
 
 Hello, Github
 ------
