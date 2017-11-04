@@ -23,7 +23,6 @@
 方志晖 |huihard-boiled|
 徐国聪 |xuguocong|
 李东涛 |lidongtaolk|
-姜国栋 |yytry|
 
 Hello, Github
 ------
