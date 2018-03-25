@@ -18,20 +18,21 @@
 姜鑫 | KNLG42 |
 应圆中 |yyz98799|
 张炜 | SilverBullete |
-林英琮 | Congb19 | 
+林英琮 | Congb19 |
 李恩淘 |lientaoppt|
 方志晖 |huihard-boiled|
 徐国聪 |xuguocong|
 李东涛 |lidongtaolk|
 王艺霏 |wyfhouduan|
 苏宇轩 |LeftBull|
+黄奕涵 |GetToSet|
 
 Hello, Github
 ------
 
-A simple game here, just send little things to thie repo.  
-For proving that you are using Github and you have learned Git.  
-And add you name below, make sure you know what is Markdown.  
+A simple game here, just send little things to thie repo.
+For proving that you are using Github and you have learned Git.
+And add you name below, make sure you know what is Markdown.
 
 Steps to join:
 
@@ -44,7 +45,7 @@ Steps to join:
 你好, Github
 ------
 
-简单的游戏, 来参与一个 Github 上的日常工作, Issue, Pull Request 之类的.  
+简单的游戏, 来参与一个 Github 上的日常工作, Issue, Pull Request 之类的.
 至少证明作为 精弘网络 一员, 在用 Github 了吧, 会 Git 了木有?  
 顺便 Markdown 和 README 是什么, 也要了解下..
 
@@ -58,7 +59,7 @@ Steps to join:
 
 导航
 
-1. [How to use Github？](https://gist.github.com/suziewong/4378619) 
+1. [How to use Github？](https://gist.github.com/suziewong/4378619)
 2. [Git的常规操作](https://gist.github.com/suziewong/4378729)
 3. [Git的多账号如何处理?](https://gist.github.com/suziewong/4378434)
 4. [How to use Gitlab?](https://gist.github.com/suziewong/4378780)
