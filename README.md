@@ -28,8 +28,8 @@
 汪雨薇 |WYuei|
 黄奕涵 |GetToSet|
 许雨嫣 |rdzfv|
-
-Hello, Github
+王击宇 |Chiyu710|
+Hello, Github.
 ------
 
 A simple game here, just send little things to thie repo.
@@ -54,7 +54,7 @@ Steps to join:
 参与规则:
 
 * Fork 仓库
-* 在 README 加上你的用户名然后提交
+* 在 README  加上你的用户名然后提交
 * 添加更多文件 (选做)
 * 提交 PR
 * 确认 PR 提交成功
