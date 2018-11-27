@@ -31,7 +31,7 @@
 王击宇 |Chiyu710|
 周郑杰 |Hess-Zhou|
 周科宇 |DreamFish12450|
-Hello, Github.
+
 ------
 
 A simple game here, just send little things to thie repo.
