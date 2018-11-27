@@ -32,7 +32,6 @@
 周郑杰 |Hess-Zhou|
 王程飞 |658146603|
 左佑 |Dante26x|
-张浩 |Stoodant|
 
 Hello, Github.
 ------
