@@ -34,7 +34,9 @@
 左佑 |Dante26x|
 许秉灏 |1151686296|
 杨烜 |787274080|
+洪成龙 |hcll123456|
 周科宇 |DreamFish12450|
+
 ------
 
 A simple game here, just send little things to thie repo.
