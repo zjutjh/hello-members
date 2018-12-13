@@ -1,57 +1,57 @@
 ﻿
 # 精弘网络技术团队成员名单
-名字 | github账号 |
-----|------------|
-陈然 | cccRaim   |
-朱兴照 | zzhutianyu    |
-小诺 | Norberta1314	|
-刘启恒 | Lyren0214	|
-严力意 | 514410237	|
-汤晓斌 | tangxiaobinyuren |
-李娜 | KoreyoshiLn |
-楼宇祺 | Louisian |
-刘钰晓 | LyxSec |
-王杭婷 |whunting|
-王轶凡 |wifi9984|
-王炜博 |924228507|
-张静茜 |Atropos1999|
-姜鑫 | KNLG42 |
-应圆中 |yyz98799|
-张炜 | SilverBullete |
-林英琮 | Congb19 |
-李恩淘 |lientaoppt|
-方志晖 |huihard-boiled|
-徐国聪 |xuguocong|
-李东涛 |lidongtaolk|
-王艺霏 |wyfhouduan|
-苏宇轩 |LeftBull|
-汪雨薇 |WYuei|
-黄奕涵 |GetToSet|
-许雨嫣 |rdzfv|
-王击宇 |Chiyu710|
-周郑杰 |Hess-Zhou|
-胡皓睿 |huhaorui|
-陈昊天 |h1542462994|
-汤启喆 |Penguint|
-陈力 |IchenDEV|
-王程飞 |658146603|
-左佑 |Dante26x|
-许秉灏 |1151686296|
-杨烜 |787274080|
-洪成龙 |hcll123456|
-唐子扬 |tzy261733100|
-周科宇 |DreamFish12450|
-张赛萍 | NRZSP |
-张浩 |Stoodant|
-周科宇 |DreamFish12450|
-俞铭洋 |yiyibbk|
-凌智城 |boom1999|
-李昊   |Leo309|
-叶璇 |TuDouuuuu|
-何泽伟 |EIPsilly|
-陈友民 |steve201806|
-章远 |412869434|
-李舒晴 |tempest67ulysses|
+名字 | github账号 | 年份 |
+----|------------|-----|
+陈然 | cccRaim   |2013|
+朱兴照 | zzhutianyu    ||
+小诺 | Norberta1314	||
+刘启恒 | Lyren0214	||
+严力意 | 514410237	||
+汤晓斌 | tangxiaobinyuren ||
+李娜 | KoreyoshiLn ||
+楼宇祺 | Louisian |2014|
+刘钰晓 | LyxSec |2013|
+王杭婷 |whunting||
+王轶凡 |wifi9984||
+王炜博 |924228507||
+张静茜 |Atropos1999||
+姜鑫 | KNLG42 ||
+应圆中 |yyz98799||
+张炜 | SilverBullete ||
+林英琮 | Congb19 ||
+李恩淘 |lientaoppt||
+方志晖 |huihard-boiled||
+徐国聪 |xuguocong||
+李东涛 |lidongtaolk||
+王艺霏 |wyfhouduan||
+苏宇轩 |LeftBull||
+汪雨薇 |WYuei||
+黄奕涵 |GetToSet|2018|
+许雨嫣 |rdzfv|2018|
+王击宇 |Chiyu710|2018|
+周郑杰 |Hess-Zhou|2018|
+胡皓睿 |huhaorui|2018|
+陈昊天 |h1542462994|2018|
+汤启喆 |Penguint|2018|
+陈力 |IchenDEV|2018|
+王程飞 |658146603|2018|
+左佑 |Dante26x|2018|
+许秉灏 |1151686296|2018|
+杨烜 |787274080|2018|
+洪成龙 |hcll123456|2018|
+唐子扬 |tzy261733100|2018|
+周科宇 |DreamFish12450|2018|
+张赛萍 | NRZSP |2018|
+张浩 |Stoodant|2018|
+周科宇 |DreamFish12450|2018|
+俞铭洋 |yiyibbk|2018|
+凌智城 |boom1999|2018|
+李昊   |Leo309|2018|
+叶璇 |TuDouuuuu|2018|
+何泽伟 |EIPsilly|2018|
+陈友民 |steve201806|2018|
+章远 |412869434|2018|
+李舒晴 |tempest67ulysses|2018|
 
 Hello, GitHub
 ------
