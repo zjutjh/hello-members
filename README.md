@@ -1,4 +1,4 @@
-
+﻿
 # 精弘网络技术团队成员名单
 名字 | github账号 |
 ----|------------|
@@ -46,6 +46,12 @@
 周科宇 |DreamFish12450|
 俞铭洋 |yiyibbk|
 凌智城 |boom1999|
+李昊   |Leo309|
+叶璇 |TuDouuuuu|
+何泽伟 |EIPsilly|
+陈友民 |steve201806|
+章远 |412869434|
+李舒晴 |tempest67ulysses|
 
 Hello, GitHub
 ------
