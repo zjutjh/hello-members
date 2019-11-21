@@ -1,31 +1,73 @@
-﻿
-# 精弘网络技术团队成员名单
-名字 | github账号 | 年份 |
-----|------------|-----|
-陈然 | cccRaim   |2013|
-朱兴照 | zzhutianyu    ||
-小诺 | Norberta1314	||
-刘启恒 | Lyren0214	||
-严力意 | 514410237	||
-汤晓斌 | tangxiaobinyuren ||
-李娜 | KoreyoshiLn ||
-楼宇祺 | Louisian |2014|
-刘钰晓 | LyxSec |2013|
-王杭婷 |whunting||
-王轶凡 |wifi9984||
-王炜博 |924228507||
-张静茜 |Atropos1999||
-姜鑫 | KNLG42 ||
-应圆中 |yyz98799||
-张炜 | SilverBullete ||
-林英琮 | Congb19 ||
-李恩淘 |lientaoppt||
-方志晖 |huihard-boiled||
-徐国聪 |xuguocong||
-李东涛 |lidongtaolk||
-王艺霏 |wyfhouduan||
-苏宇轩 |LeftBull||
-汪雨薇 |WYuei||
+﻿# 精弘网络技术部拥抱github仪式
+
+Ceremony of embracing github / zjutjh
+
+欢迎加入精弘网络技术部（之前为开发部）这个大家庭，学会使用github，是我们每一届技术部的任务。通过这个项目你就可以找到你熟悉的熟人啦，快来加入我们吧。
+
+Welcome to our family zjutjh technical team, our first target is to learn how to use the github, by this, you could take a glance of our organizers and collaborators, have a great fun!
+
+简单的游戏, 来参与一个 Github 上的日常工作, Issue, Pull Request 之类的.
+至少证明作为 精弘网络 一员, 在用 Github 了吧, 会 Git 了木有?  
+顺便 Markdown 和 README 是什么, 也要了解下.
+
+参与规则:
+
+- Fork 仓库
+- 在 README  加上你的用户名然后提交
+- 添加更多文件 (选做)
+- 提交 PR
+- 确认 PR 提交成功
+
+A simple game here, just send little things to thie repo.
+For proving that you are using Github and you have learned Git.
+And add you name below, make sure you know what is Markdown.
+
+Steps to join:
+
+- fork it
+- add your username in the README and commit
+- add some mores files and commit (optional)
+- send a pull request to this repo
+- make sure the pull request is OK and merged
+
+另外，为了让这个项目变得更加丰富，我们也加入精弘技术大事记模块，快来看看吧。如果有你想要记录的趣事或者有什么点子的话，欢迎提交Issue.
+
+## 精弘网络技术团队成员名单
+
+### 2017及以前
+
+| 名字 | github账号 | 年份 | 简单介绍 | 备注 |
+| --- | -------- | --- | --- | --- |
+| 陈然 | cccRaim | 2013 |
+| 朱兴照 | zzhutianyu ||
+| 小诺 | Norberta1314 ||
+| 刘启恒 | Lyren0214 ||
+| 严力意 | 514410237 ||
+| 汤晓斌 | tangxiaobinyuren ||
+| 李娜 | KoreyoshiLn ||
+| 楼宇祺 | Louisian | 2014 |
+| 刘钰晓 | LyxSec | 2013 |
+| 王杭婷 | whunting ||
+| 王轶凡 | wifi9984 ||
+| 王炜博 | 924228507 ||
+| 张静茜 | Atropos1999 ||
+| 姜鑫 | KNLG42 ||
+| 应圆中 | yyz98799 ||
+| 张炜 | SilverBullete ||
+| 林英琮 | Congb19 ||
+| 李恩淘 | lientaoppt ||
+| 方志晖 | huihard-boiled ||
+| 徐国聪 | xuguocong ||
+| 李东涛 | lidongtaolk ||
+| 王艺霏 | wyfhouduan ||
+| 苏宇轩 | LeftBull ||
+| 汪雨薇 | WYuei ||
+
+
+### 2018
+
+| 名字 | github账号 | 年份 | 简单介绍 | 备注 |
+| --- | -------- | --- | --- | --- |
 黄奕涵 |GetToSet|2018|
 许雨嫣 |rdzfv|2018|
 王击宇 |Chiyu710|2018|
@@ -53,37 +95,22 @@
 章远 |412869434|2018|
 李舒晴 |tempest67ulysses|2018|
 
-Hello, GitHub
-------
+### 2019（技术部）
 
-A simple game here, just send little things to thie repo.
-For proving that you are using Github and you have learned Git.
-And add you name below, make sure you know what is Markdown.
+| 名字 | github账号 | 年份 | 简单介绍 | 备注 |
+| --- | -------- | --- | --- | --- |
+| ※应圆中 | yyz98799 | 2017 | | 技术总监 |
+| ※陈昊天 | h1542462994 | 2018 | | 部长 |
+| ※张赛萍 | NRZSP | 2018 | | 副部 |
+| ※陈力 | IchenDEV | 2018 | 2019届明星人物 | 副部 |
+| ※陈友民 | steve201806 | 2018 | | 副部 |
 
-Steps to join:
 
-* fork it
-* add your username in the README and commit
-* add some mores files and commit (optional)
-* send a pull request to this repo
-* make sure the pull request is OK and merged
+## 导航
 
-你好, Github
-------
+[2019大事记](./note/2019note.md)
 
-简单的游戏, 来参与一个 Github 上的日常工作, Issue, Pull Request 之类的.
-至少证明作为 精弘网络 一员, 在用 Github 了吧, 会 Git 了木有?  
-顺便 Markdown 和 README 是什么, 也要了解下..
-
-参与规则:
-
-* Fork 仓库
-* 在 README  加上你的用户名然后提交
-* 添加更多文件 (选做)
-* 提交 PR
-* 确认 PR 提交成功
-
-导航
+## 相关教程
 
 1. [How to use Github？](https://gist.github.com/suziewong/4378619)
 2. [Git的常规操作](https://gist.github.com/suziewong/4378729)
