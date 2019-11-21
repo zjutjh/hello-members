@@ -94,6 +94,7 @@ Steps to join:
 陈友民 |steve201806|2018|
 章远 |412869434|2018|
 李舒晴 |tempest67ulysses|2018|
+刘阳 |Sillysillysilly|2018|
 
 ### 2019（技术部）
 
