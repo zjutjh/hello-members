@@ -1,4 +1,4 @@
-﻿# 精弘网络技术部拥抱github仪式
+# 精弘网络技术部拥抱github仪式
 
 Ceremony of embracing github / zjutjh
 
@@ -107,6 +107,7 @@ Steps to join:
 | ※陈友民 | steve201806 | 2018 | | 副部 |
 | 宣旭晨 | BeckXuan | 2019 | | 部员 |
 | 倪梦玲 | Lng01 | 2019 | | 部员 |
+| 余金隆 | c121914yu | 2019 | | 部员 |
 
 ## 导航
 
