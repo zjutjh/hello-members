@@ -1,4 +1,4 @@
-# 精弘网络技术部拥抱github仪式
+﻿# 精弘网络技术部拥抱github仪式
 
 Ceremony of embracing github / zjutjh
 
@@ -110,7 +110,6 @@ Steps to join:
 | 邓鸿波 | Dhongbo | 2019 | | 部员 |
 | 张斌 | moeno-zb | 2019 | | 部员 |
 | 陈杨 | 596552206 | 2019 | 部员 |
-| 余金隆 | c121914yu | 2019 | | 部员 |
 | 陈志成 | windward47 | 2019 | 部员 |
 
 ## 导航
