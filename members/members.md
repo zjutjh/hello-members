@@ -61,6 +61,7 @@
 章远 |412869434|2018|
 李舒晴 |tempest67ulysses|2018|
 刘阳 |Sillysillysilly|2018|
+郑逸伦 |zylMozart|2018|
 
 ## 2019
 
@@ -85,3 +86,4 @@
 | 名字 | github账号 | 年份 | 简单介绍 | 备注 |
 | --- | -------- | --- | --- | --- |
 | ※陈力 | IchenDEV | 2018 |  | 技术总监 |
+| ※郑逸伦 | zylMozart | 2018 | Vegetable Chicken | 技术部长 |
