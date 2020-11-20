@@ -90,3 +90,4 @@
 | ※郑逸伦 | zylMozart | 2018 | Vegetable Chicken | 技术部长 |
 | ※ 范怡玲 | Chengluo1 | 2018 | 吉祥物 | 技术副部 |
 | ※农积升 | Xould | 2019 | None | 技术副部 |
+| 王路 | timber3252 | 2020 | | 部员 |
