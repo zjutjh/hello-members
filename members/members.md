@@ -121,7 +121,7 @@
 | ※ 屠嘉辰 | solitarytjc | 2020 | a vegetable chicken named null | 开发部长 |
 | ※ 邓晨浩 | I-Info | 2020 | |运维部长|
 | ※ 严伟志 | awei-nan| 2020 | 略略略 | 开发副部长 |
-| ※ 冯鸣 | DestinyOfICE | 2020 | | 开发副部长 |
+| ※ 冯鸣 | DestinyOfICE | 2020 | 冯零 | 开发副部长 |
 | ※ 王路 | timber3252 | 2020 | | 开发副部长 |
 | ※ 徐志宏 | &lt;nil&gt; | 2020 | Go 邪教势力发起者 | 运维副部长 |
 | 张锦鸿 | bilibili12433014 | 2021 | 我爱Python | 部员 |
