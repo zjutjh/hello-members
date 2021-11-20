@@ -131,3 +131,4 @@
 | 顾原豪 | Engmistry | 2021 | 菜鸡 | 部员 |
 | 谢君艺 | gggaaallleee | 2021 | miliyyds | 部员 |
 | 董煜昕 | Fu2ia | 2021 | NaN | 部员 |
+| 蔡祥 | Patrick-Star-CN | 2021 | 群派大星 | 部员 |
