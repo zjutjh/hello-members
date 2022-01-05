@@ -19,9 +19,13 @@
 * [成员](./members/members.md)
 
 ## 大事记
-* [2002-2018大事记](./notes/history.md)
-* [2019大事记](./notes/2019note.md)
-* [2020大事记](./notes/2020note.md)
+* [2002-2015大事记](./notes/2002-2015history.md)
+* [2016大事记](./notes/2019notes.md)
+* [2017大事记](./notes/2019notes.md)
+* [2018大事记](./notes/2019notes.md)
+* [2019开花大事记](./notes/2019kaihua_note.md)
+* [2019大事记](./notes/2019notes.md)
+* [2020大事记](./notes/2020notes.md)
 
 ## 相关教程
 
