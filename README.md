@@ -28,6 +28,7 @@
 - [2019 大事记](./notes/2019notes.md)
 - [2020 大事记](./notes/2020notes.md)
 - [2021 大事记](./notes/2021notes.md)
+- [2022 大事记](./notes/2022notes.md)
 
 ## 相关教程
 
