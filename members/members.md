@@ -165,6 +165,7 @@
 | ※ 谢君艺 | gggaaallleee | 2021 | 卑微鲨鱼在线求带 | 运维部部长 |
 | ※ 葛骏 | FinleyGe | 2021 | 可爱猫猫在线喵喵 | 运维部副部 |
 | ※ 朱亦菲 | iaqn | 2021 |  | 运维部副部 |
+| 韩骁扬 | codelover123hxy | 2021 | 新人小马大佬求带 | 部员 |
 | 沈铖域 | s-chance | 2021 | 会开发不会算法的菜鸟 | 部员 |
 | 王天赐 | Tianci-King | 2022 | life is fucking coding！ | 部员 |
 | 刘一舟 | lyyzzz6 | 2022 | 蒟蒻中滴蒟蒻 | 部员 |
