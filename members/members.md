@@ -130,7 +130,7 @@
 | 朱锦 | q1nghuan | 2021 | 鼠鼠 | 部员 |
 | 毛威 | DanuviusAM | 2021 | 老师，菜菜，捞捞【可怜】 | 部员 |
 | 顾原豪 | Engmistry | 2021 | 菜鸡 | 部员 |
-| 谢君艺 | gggaaallleee | 2021 | miliyyds | 部员 |
+| 谢君艺 | gggaaallleee | 2021 |iliyyds | 部员 |
 | 董煜昕 | Fu2ia | 2021 | NaN | 部员 |
 | 江晨阳 | morningsun | 2021 | 别问，问就是不会 | 部员 |
 | 黄楠 | Not1ce1 | 2021 | 期中考线代不及格的屑 | 部员 |
@@ -164,3 +164,4 @@
 | ※ 谢君艺 | gggaaallleee | 2021 | 卑微鲨鱼在线求带 | 运维部部长 |
 | ※ 葛骏 | Forever-Jimmy | 2021 | 可爱猫猫在线喵喵 | 运维部副部 |
 | ※ 朱亦菲 | iaqn | 2021 |  | 运维部副部 |
+| 郭正楠 | Southern-wood | 2021 | 全国一级退堂鼓演奏专家 | 
