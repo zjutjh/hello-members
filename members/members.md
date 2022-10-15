@@ -165,3 +165,6 @@
 | ※ 葛骏 | Forever-Jimmy | 2021 | 可爱猫猫在线喵喵 | 运维部副部 |
 | ※ 朱亦菲 | iaqn | 2021 |  | 运维部副部 |
 | 江钰祥 | LittleSharkKissKissMe | 2022 | 小洛克 | 砍口垒 |
+| 张盛 | ayersz127 | 2022 | 我不是成皿 | 开发部成员 | 
+|董修瑜|Anderson113-study|2022|一拖就拖到deadline不交稿的老鸽子|部员|
+| 朱礼冰 | onetoroto | 2022 | 大摆钟摆啊摆 | 部员 |
