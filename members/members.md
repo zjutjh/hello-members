@@ -210,3 +210,4 @@
 | ※ 杨若童 |            |      |          |      |
 | 赵昱凯 | qianqianzyk | 2023 | my dear da lao please dai dai wo | 部员 |
 | 郑华展 | ZeroHzzzz | 2023 | 蒟蒻、黑白 | 部员 |
+| 陈致衡 | Chengzhir | 2023 | Null | 部员 |
