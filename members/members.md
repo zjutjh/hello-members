@@ -212,7 +212,7 @@
 | ※ 谢宇韬 | | | | 技术小弘联培副部 |
 | 赵昱凯 | qianqianzyk | 2023 | my dear da lao please dai dai wo | 部员 |
 | 郑华展 | ZeroHzzzz | 2023 | 蒟蒻、黑白 | 部员 |
-| 陈致衡 | Chengzhir | 2023 | 摆烂部部长 | 部员 |
+| 陈致衡 | Chengzhir | 2023 | 摆烂部部长 ~~（建议技术部改名卖菜部）~~ | 部员 |
 | 彭海林 | Penryn | 2023 | 啥也不会，躺平  望舒  | 部员 |
 | 黄宇鑫 | SGSxingchen | 2022 | 玩MC还是可以找我 | 部员 |
 | 丁崇轩 | aasuan | 2023 | 扣1复活牢大谢谢喵 | 部员 |
