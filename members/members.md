@@ -215,6 +215,7 @@
 | 杨静怡 | Penguin0102 | 2023 | 吃吃吃吃吃吃 | 部员 |  
 | 陈致衡 | Chengzhir | 2023 | 摆烂部部长 | 部员 |
 | 彭海林 | Penryn | 2023 | 啥也不会，躺平  望舒  | 部员 |
+| 朱蓓蓓 | Eurus226 | 2023 | 你也爱吃肉松小贝吗？ | 部员 |
 | 陈姜悦 | chenjiangyue1| 2023 | caiji | 部员 |
 | 徐昇 | toasttsaot | 2023 | Antinomie 群bot | 部员 |
 | 曹娉宁 | npccpn | 2023 |       | 部员 |
