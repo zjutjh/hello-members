@@ -208,6 +208,8 @@
 | ※ 朱礼冰 | zhullyb | 2022 | 大摆钟摆啊摆 | 运维部副部 |
 | ※ 徐泓鑫 |            |      |          |      |
 | ※ 杨若童 |            |      |          |      |
+| ※ 刘一舟 | | | | 技术活动联培副部 |
+| ※ 谢宇韬 | | | | 技术小弘联培副部 |
 | 赵昱凯 | qianqianzyk | 2023 | my dear da lao please dai dai wo | 部员 |
 | 郑华展 | ZeroHzzzz | 2023 | 蒟蒻、黑白 | 部员 |
 | 陈致衡 | Chengzhir | 2023 | Null | 部员 |
