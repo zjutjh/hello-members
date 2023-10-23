@@ -214,6 +214,7 @@
 | 徐子涵 | Patrickill | 2022 | 拍拍群🐖的皮🥁 | 部员 |
 | 黄宇鑫 | SGSxingchen | 2022 | 玩MC还是可以找我 | 部员 |
 | 卢美伊 | BearKingF | 2022 |             | 部员 |
+| 高天煜 | PoorShawn | 2022 | 不停地扭曲、爬行：“不——” | 部员 |
 | 赵昱凯 | qianqianzyk | 2023 | my dear da lao please dai dai wo | 部员 |
 | 郑华展 | ZeroHzzzz | 2023 | 蒟蒻、黑白 | 部员 |
 | 杨静怡 | Penguin0102 | 2023 | 吃吃吃吃吃吃 | 部员 |
@@ -246,4 +247,3 @@
 | 郑欣悦 | salt114514 | 2023 | 最菜sodium-salt，来点车万人/空洞/魂游爱好者 | 部员 |
 | 董景楠 | zjuter | 2023 | 过路人&蒻苟&舟批 | 部员 |
 | 赵易 | zyinjoey |2023 | 帅气且爬行 | 部员 |
-| 高天煜 | PoorShawn | 2023 | 不停地扭曲、爬行：“不——” | 部员 |
