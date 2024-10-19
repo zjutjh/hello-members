@@ -263,4 +263,4 @@
 | ※ 沈奕睿 | RosyrRais | 2023 | 蒟蒻 | 产研部副部 |
 | ※ 林茂政 | dioptric233 | 2023 | 啥也不会目猫nya | 产研部副部 |
 | ※ 郭紫阳 | luolananDR | 2023 | 洛蓝桉 | 产研部副部 |
-| 袁一轩 | natsurainko | 2024 | | |
+| 袁一轩 | natsurainko | 2024 | Nrk | 部员 |
