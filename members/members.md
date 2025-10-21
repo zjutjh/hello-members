@@ -327,7 +327,7 @@
 | 赵延恺 | zestfulyk | 2025 | 纯前端萌新 | 部员 |
 | 吴旭哲 | EliadOArias | 2025 | I want to play minecraft! | 部员 |
 | 陈康乐 | xiaoPhaif4a2 | 2025 | 大家好我是猫雷，晚上好 | 部员 |
-| 邓继雄 | newfish1 | 2025 |  纯纯一bot  | 部员 |
+| 邓继雄 | ggbond-2025 | 2025 |  ggbond  | 部员 |
 | 舒靖淞 | Chalgen | 2025 | 其实我是人类 | 部员 |
 | 封少杰 | NexusFractal | 2025 | 🤔🐵🙈🙉🙊🐒 | 部员 |
 | 邱子皓 | A-Hydrogen-ion | 2025 |  拜见各位大佬喵  | 部员 |
