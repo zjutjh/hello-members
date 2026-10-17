@@ -350,5 +350,15 @@
 | ※ 蔡东廷 | BURIBURI-ZAEMON1 | 2025 | 真不是🦟   | 产研部副部长 |
 | ※ 殷晟桓 | Shy-06           | 2025 | 🥰🥰🥰     | 产研部副部长 |
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 |
-| ※ 刘天宇 | Luomic      | 2026 |👻🌶️🌶️🌶️ | 部员 |
-| 干子欣 | gos10000            | 2026 | i wanna be a professor! | 产研部干事 |
+| 干子欣 | gos10000            | 2026 | i wanna be a professor! | 部员 |
+| 叶苏杰   | linstarowo       | 2026 | kksk       | 部员         |
+| 宋念恩    | Estrelas-star    | 2026 | ✨       | 部员 |
+| 李禹樊 | nanirise         | 2026 |纳尼？     | 部员 |
+| 温梓乔    | fe4o3w           | 2026 |像疯狗一样奔跑 | 部员 |
+| 刘天宇 | Luomic      | 2026 |👻🌶️🌶️🌶️ | 部员 |
+| 俞炜杰   | Timer-u          | 2026 | 我也要实名上网吗（ | 部员   |
+|  郑祥恒   |GOOD-BOY-cool     | 2026 |  吃肘子    | 部员         |
+|  洪烨     |unicornfairy864   | 2026 |  陈松      | 部员         |
+| 金煜博   | gukuyaa          | 2026 | lovyy！    | 部员         |
+|  董嘉晟   | Nihaoa-ui       | 2026 |  我再也不打瓦了    | 部员    |
+
