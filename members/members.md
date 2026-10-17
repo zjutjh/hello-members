@@ -358,4 +358,5 @@
 |  郑祥恒   |GOOD-BOY-cool     | 2026 |  吃肘子    | 部员         |
 |  洪烨     |unicornfairy864   | 2026 |  陈松      | 部员         |
 | 金煜博   | gukuyaa          | 2026 | lovyy！    | 部员         |
+|  董嘉晟   | Nihaoa-ui       | 2026 |  我再也不打瓦了    | 部员    |
 
