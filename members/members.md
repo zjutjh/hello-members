@@ -381,3 +381,4 @@
 | 枣浚航   | hshzspndd         | 2026 | ✋🏻😭🤚🏻								| 部员				|
 | 王杰豪   | Wake-reverie      | 2026 | 醒着做梦                |部员           |
 | 陶梦创   | Dream0627         | 2026 |好困喵...                | 部员         |
+| 黄君宏   | mingyyanhuahuo    | 2026 |哇雷瓦雷哇 misaka哒       | 部员         |
