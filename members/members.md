@@ -375,3 +375,4 @@
 | 童欣栎   | Silmy080712txy    | 2026 | 懵辽                    | 部员         |
 | 张钊源   | wuminswumin       | 2026 | hello，world            | 部员         |
 | 孙一宸   | CyanSyl           | 2026 | 后端萌新                | 部员         |
+| 叶振笛   | qaz-dream-plm     | 2026 | 歪比巴卜                | 部员         |
