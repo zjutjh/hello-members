@@ -377,6 +377,7 @@
 | 张钊源   | wuminswumin       | 2026 | hello，world            | 部员         |
 | 孙一宸   | CyanSyl           | 2026 | 后端萌新                | 部员         |
 | 叶振笛   | qaz-dream-plm     | 2026 | 歪比巴卜                | 部员         |
+| 林浩俊   | xunwu_top         | 2026 | 看到学到                | 部员         |
 | 枣浚航   | hshzspndd         | 2026 | ✋🏻😭🤚🏻								| 部员				|
 | 王杰豪   | Wake-reverie      | 2026 | 醒着做梦                |部员           |
 | 陶梦创   | Dream0627         | 2026 |好困喵...                | 部员         |
