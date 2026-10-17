@@ -350,6 +350,7 @@
 | ※ 蔡东廷 | BURIBURI-ZAEMON1 | 2025 | 真不是🦟   | 产研部副部长 |
 | ※ 殷晟桓 | Shy-06           | 2025 | 🥰🥰🥰     | 产研部副部长 |
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 |
+| 朱川   | chariot666        | 2026 |咕咕嘎嘎                            | 部员     |
 | 李添睿 | VanillaWhitePeony      | 2026 |香草白牡丹 | 部员       |
 | 干子欣 | gos10000            | 2026 | i wanna be a professor! | 部员 |
 | 叶苏杰   | linstarowo       | 2026 | kksk       | 部员         |
