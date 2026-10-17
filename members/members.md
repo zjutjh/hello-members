@@ -352,5 +352,4 @@
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 |
 | 刘天宇 | Luomic      | 2026 |👻🌶️🌶️🌶️ | 部员 |
 |  郑祥恒   |GOOD-BOY-cool     | 2026 |  吃肘子    | 部员         |
-|  洪烨     |unicornfairy864   | 2026 |  陈松      | 部员         |
-
+|  张瀚霖   | Lin-furina | 2026 |  fufu  | 部员 |
