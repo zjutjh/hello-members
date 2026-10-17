@@ -350,6 +350,10 @@
 | ※ 蔡东廷 | BURIBURI-ZAEMON1 | 2025 | 真不是🦟   | 产研部副部长 |
 | ※ 殷晟桓 | Shy-06           | 2025 | 🥰🥰🥰     | 产研部副部长 |
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 |
+|    马权   | jmx2033          | 2026 | QAQ       | 部员         |
+| 俞炜杰   | Timer-u          | 2026 | 我也要实名上网吗（ | 部员   |
+| 张峰若 | Nymist      | 2026 | Not a baka | 部员 |
+| 朱川   | chariot666        | 2026 |咕咕嘎嘎                            | 部员     |
 | 李添睿 | VanillaWhitePeony      | 2026 |香草白牡丹 | 部员       |
 | 干子欣 | gos10000            | 2026 | i wanna be a professor! | 部员 |
 | 叶苏杰   | linstarowo       | 2026 | kksk       | 部员         |
@@ -370,4 +374,5 @@
 | 张子奇  | jm5905938 | 2026 | 一条肥美的大区呀 | 部员 |
 |  唐子昕   | t2x-f5i       | 2026 |  hello jh    | 部员          |
 | 童欣栎 | Silmy080712txy | 2026 | 懵辽 | 部员 |
-
+|  张钊源   | wuminswumin      | 2026 |  hello，world    | 部员          |
+| 孙一宸   | CyanSyl          | 2026 | 后端萌新    | 部员       |
