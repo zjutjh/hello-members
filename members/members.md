@@ -350,4 +350,4 @@
 | ※ 蔡东廷 | BURIBURI-ZAEMON1 | 2025 | 真不是🦟   | 产研部副部长 |
 | ※ 殷晟桓 | Shy-06           | 2025 | 🥰🥰🥰     | 产研部副部长 |
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 
-| 张钊源    | wuminswumin      | 2026 | hello，world    | 部员 |
+| 张钊源    | wuminswumin      | 2026 | hello，world     | 部员 |
