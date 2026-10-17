@@ -361,6 +361,7 @@
 |  郑祥恒   |GOOD-BOY-cool     | 2026 |  吃肘子    | 部员         |
 |  洪烨     |unicornfairy864   | 2026 |  陈松      | 部员         |
 | 金煜博   | gukuyaa          | 2026 | lovyy！    | 部员         |
+| 向思琦     |XiangSiQi-Hub   | 2026 | 天大地大，睡觉最大  | 部员    |
 | 俞栋程   | Houbandan1123    | 2026 |  猛攻      |  部员         |
  |  董嘉晟   | Nihaoa-ui       | 2026 |  我再也不打瓦了    | 部员    |
 |  唐子昕   | t2x-f5i       | 2026 |  hello jh    | 部员          |
