@@ -350,6 +350,8 @@
 | ※ 蔡东廷 | BURIBURI-ZAEMON1 | 2025 | 真不是🦟   | 产研部副部长 |
 | ※ 殷晟桓 | Shy-06           | 2025 | 🥰🥰🥰     | 产研部副部长 |
 | ※ 杨子杰 | Fridaysheep      | 2025 |？！wmc！？ | 产研部副部长 |
+| 李添睿 | VanillaWhitePeony      | 2026 |香草白牡丹 | 部员       |
+| 干子欣 | gos10000            | 2026 | i wanna be a professor! | 部员 |
 | 叶苏杰   | linstarowo       | 2026 | kksk       | 部员         |
 | 宋念恩    | Estrelas-star    | 2026 | ✨       | 部员 |
 | 李禹樊 | nanirise         | 2026 |纳尼？     | 部员 |
@@ -358,6 +360,9 @@
 |  郑祥恒   |GOOD-BOY-cool     | 2026 |  吃肘子    | 部员         |
 |  洪烨     |unicornfairy864   | 2026 |  陈松      | 部员         |
 | 金煜博   | lovyy            | 2026 | lovyy！    | 部员         |
+| 向思琦     |XiangSiQi-Hub   | 2026 | 天大地大，睡觉最大  | 部员    |
+| 俞栋程   | Houbandan1123    | 2026 |  猛攻      |  部员         |
 | 林浩俊    | xunwu_top        | 2026 | 看到学到  | 部员        |
 |  董嘉晟   | Nihaoa-ui       | 2026 |  我再也不打瓦了    | 部员    |
+|  唐子昕   | t2x-f5i       | 2026 |  hello jh    | 部员          |
 
